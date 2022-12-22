@@ -15,7 +15,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Thigas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
   <img align="center" alt="Thigas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img align="right" alt="gumball-pic" height="120" style="border-radius:50px;" src = "https://media.tenor.com/XuuB3hWAXM0AAAAC/gumball.gif"
 </div>
 
  # 
