@@ -1,7 +1,4 @@
-### Hey povo, aqui é o Thiago😉
 
-
--  🧑‍💻Estudando Python
 -  📩Email: thiaggohipolitomoreira@gmail.com
 
 <div align="left">
