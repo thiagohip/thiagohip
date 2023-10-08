@@ -12,8 +12,8 @@
 
 ##
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagohip&show_icons=true&theme=onedark)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohip&layout=compact&langs_count=6&theme=onedark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandavictoria&show_icons=true&theme=onedark"/></div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohip&layout=compact&langs_count=6&theme=onedark"/>
 
 
 ##
