@@ -1,9 +1,7 @@
 <h4>Opa, meu nome é Thiago, seja bem vindo!🤝</h4>
 
 <ul>
-    <li>17 anos🍃</li>
-    <li>Cursando Informática/CEFETMG📘</li>
-    <li>Estudando o backend🧑🏻‍💻</li>
+    <li>Informática/CEFETMG</li>
 <ui>
 
 ##
