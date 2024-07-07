@@ -29,7 +29,5 @@
 
 ##
 
-<img height="180" src="https://giffiles.alphacoders.com/219/219969.gif"/>
-          
           
 
