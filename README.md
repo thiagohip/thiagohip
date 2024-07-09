@@ -8,15 +8,7 @@
 
 [![LinkeDin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-hip%C3%B3lito-540948279/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiaggohipolitomoreira@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thiagohipmor/)
 
-##
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagohip&show_icons=true&theme=onedark"/></div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohip&layout=compact&langs_count=6&theme=onedark"/>
-
-
-##
 
 <div> 
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
