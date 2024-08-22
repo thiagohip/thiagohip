@@ -1,25 +1,12 @@
-<h4>Opa, meu nome é Thiago, seja bem vindo!🤝</h4>
+<h4>Hi, i'm Thiago👋🏻👨🏻‍💻</h4>
 
 <ul>
     <li>Informática/CEFETMG</li>
 <ui>
 
-##
 
-[![LinkeDin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-hip%C3%B3lito-540948279/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiaggohipolitomoreira@gmail.com)
-
-
-<div> 
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-          
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagohip&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohip&layout=compact&theme=midnight-purple&size_weight=2)
 
 ##
 
